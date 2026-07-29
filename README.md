@@ -199,6 +199,9 @@ Hospital-Data-Analysis-SQL
 │   ├── Cleaned_Data
 │   └── CSV_Files
 │
+├── Images
+│   └── ER_Diagram.png
+│
 ├── SQL
 │   ├── Database_Creation.sql
 │   └── Analysis_Queries.sql
@@ -208,8 +211,9 @@ Hospital-Data-Analysis-SQL
 │   ├── ...
 │   └── Q22_Above_Average_Insurance_Coverage.png
 │
-├── Images
-│   └── ER_Diagram.png
+└── .gitattributes
+│
+└── LCENSE
 │
 └── README.md
 ```
@@ -278,9 +282,8 @@ This project strengthened my understanding of:
 - Analytical problem-solving
 - Organizing end-to-end SQL projects for a professional portfolio
 
+
 ---
-
-
 
 \## 👤 Author
 
@@ -297,5 +300,8 @@ Aspiring Data Analyst | Excel | SQL | Power BI
 If you have any feedback, suggestions, or questions regarding this project, feel free to connect with me through GitHub or LinkedIn.
 
 ---
+# 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ⭐ If you found this project useful, consider giving the repository a star.
