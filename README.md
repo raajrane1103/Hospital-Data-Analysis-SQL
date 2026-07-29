@@ -46,7 +46,6 @@ The project demonstrates SQL concepts commonly used in Data Analyst roles, inclu
 | Database | Hospital Database |
 | Total Tables | 5 |
 | Total Records | 75,000+ |
-| Unique Patients | 974 |
 
 ---
 
